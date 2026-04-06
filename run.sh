@@ -1,1 +1,1 @@
-bitbake openvario-image-testing
+bitbake openvario-image
